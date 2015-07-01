@@ -15,11 +15,11 @@ The winning percentage for this code at each level of difficulty is as follows:
     Brilliant: 13 for 20
 
 ------------------------------------------------------------------------
-USER INSTRUCTIONS:
-   1) ‘Clone in Desktop’ or ‘Download ZIP’ and open ZIP from Github 
+Instructions to Run Program:
+   1) Clone in Desktop’ or ‘Download ZIP’ and open ZIP from Github 
    2) Open Terminal > ‘cd’ into project directory where the files are downloaded to
-   3) run ‘java c Main.java’ in terminal
-   4) run ‘java Main’ in terminal
+   3) Run ‘java c Main.java’ in terminal
+   4) Run ‘java Main’ in terminal
 
 ------------------------------------------------------------------------
 Note: All of the graphical components (e.g., game board, pieces, etc) have already been created, the purposes of this project focused solely on the Red token’s logic.
