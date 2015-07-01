@@ -21,4 +21,3 @@ USER INSTRUCTIONS:
    3) run ‘java c Main.java’ in terminal
    4) run ‘java Main’ in terminal
 
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1hisEXbR8f_cYtN8jDkBg-9-MDYEl1rEwFpDNe31L0_ZKV3SHow)
