@@ -14,6 +14,8 @@ The winning percentage for this code at each level of difficulty is as follows:
     Advanced: 16 for 20
     Brilliant: 13 for 20
 
+See following file for Udacity Project Evaluation: “ProjectEvaluation-IntrotoJavaProgramming-AdamHurwitz.pdf”
+
 ------------------------------------------------------------------------
 USER INSTRUCTIONS:
    1) ‘Clone in Desktop’ or ‘Download ZIP’ and open ZIP from Github 
