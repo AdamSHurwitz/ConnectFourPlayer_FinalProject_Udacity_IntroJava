@@ -19,8 +19,9 @@ See following file for Completion of Course: VERIFIED_CERTIFICATE_OF_COMPLETION.
 
 ------------------------------------------------------------------------
 USER INSTRUCTIONS:
-   1) ‘Clone in Desktop’ or ‘Download ZIP’ and open ZIP from Github 
-   2) Open Terminal > ‘cd’ into project directory where the files are downloaded to
-   3) run ‘java c Main.java’ in terminal
-   4) run ‘java Main’ in terminal
+   1) Ensure you have the latest version of Java installed on your machine (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+   2) ‘Clone in Desktop’ or ‘Download ZIP’ and open ZIP from Github 
+   3) Open Terminal > ‘cd’ into project directory where the files are downloaded to
+   4) run ‘javac Main.java’ in terminal
+   5) run ‘java Main’ in terminal
 

@@ -19,11 +19,12 @@ See following file for Udacity Project Evaluation: “ProjectEvaluation-IntrotoJ
 See following file for Completion of Course: VERIFIED_CERTIFICATE_OF_COMPLETION.pdf
 
 ------------------------------------------------------------------------
-Instructions to Run Program:
-   1) Clone in Desktop’ or ‘Download ZIP’ and open ZIP from Github 
-   2) Open Terminal > ‘cd’ into project directory where the files are downloaded to
-   3) Run ‘java c Main.java’ in terminal
-   4) Run ‘java Main’ in terminal
+USER INSTRUCTIONS:
+   1) Ensure you have the latest version of Java installed on your machine (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+   2) ‘Clone in Desktop’ or ‘Download ZIP’ and open ZIP from Github
+   3) Open Terminal > ‘cd’ into project directory where the files are downloaded to
+   4) run ‘javac Main.java’ in terminal
+   5) run ‘java Main’ in terminal
 
 ------------------------------------------------------------------------
 Note: All of the graphical components (e.g., game board, pieces, etc) have already been created, the purposes of this project focused solely on the Red token’s logic.
