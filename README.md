@@ -15,6 +15,7 @@ The winning percentage for this code at each level of difficulty is as follows:
     Brilliant: 13 for 20
 
 See following file for Udacity Project Evaluation: “ProjectEvaluation-IntrotoJavaProgramming-AdamHurwitz.pdf”
+See following file for Completion of Course: VERIFIED_CERTIFICATE_OF_COMPLETION.pdf
 
 ------------------------------------------------------------------------
 Instructions to Run Program:
